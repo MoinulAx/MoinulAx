@@ -1,5 +1,7 @@
 ### Hola 
-My name is Moinul, with my nickname from many of colleges being Manny. I have been intrigued by Web Development and other specification in Full Stack Development. Many of my hobbies consist of photography, game development having experience in C# and experience in the field of photography through the Podcast 101 program given by the Brooklyn STEAM Center, learning the technical aspect of the field. In addition, to collaboration to more diverse fileds outside of my own, I still dwell and rome to find the path that I will hopefully enjoy in the future and all the people I have to meet in the future in my potential endeavors 
+My name is Moinul, often known as Manny among colleagues. I am deeply passionate about web development, with a particular interest in Full Stack Development. My diverse range of hobbies reflects my curiosity and love for learning. I have a strong foundation in game development with experience in C# programming, which I acquired through various projects. Furthermore, my journey into the realm of photography began with the Podcast 101 program at the Brooklyn STEAM Center, where I delved into the technical aspects of this creative field.
+
+My enthusiasm extends beyond my core interests, as I thrive on collaborating with individuals from diverse backgrounds and disciplines. As I navigate through various fields, I remain open to new experiences, seeking the path that aligns with my passions and interests. I look forward to the exciting opportunities and connections that await me on my journey in the world of web development and beyond.
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
