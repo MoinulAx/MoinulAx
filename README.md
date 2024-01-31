@@ -3,7 +3,7 @@ My name is Moinul, often known as Manny among colleagues. I am deeply passionate
 
 My enthusiasm extends beyond my core interests, as I thrive on collaborating with individuals from diverse backgrounds and disciplines. As I navigate through various fields, I remain open to new experiences, seeking the path that aligns with my passions and interests. I look forward to the exciting opportunities and connections that await me on my journey in the world of web development and beyond.
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulax&label=Profile%20views&color=0e75b6&style=flat" alt="moinulax" /> </p>
 
