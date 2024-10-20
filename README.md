@@ -1,7 +1,9 @@
 ### Hola 
-My name is Moinul, often known as Manny among colleagues. I am deeply passionate about web development, with a particular interest in Full Stack Development. My diverse range of hobbies reflects my curiosity and love for learning. I have a strong foundation in game development with experience in C# programming, which I acquired through various projects. Furthermore, my journey into the realm of photography began with the Podcast 101 program at the Brooklyn STEAM Center, where I delved into the technical aspects of this creative field.
+Hola! My name is Moinul, often known as Manny among colleagues. I am deeply passionate about web development, with a particular interest in Full Stack Development. My diverse range of hobbies reflects my curiosity and love for learning. I have a strong foundation in game development with experience in C# programming, which I acquired through various projects.
 
-My enthusiasm extends beyond my core interests, as I thrive on collaborating with individuals from diverse backgrounds and disciplines. As I navigate through various fields, I remain open to new experiences, seeking the path that aligns with my passions and interests. I look forward to the exciting opportunities and connections that await me on my journey in the world of web development and beyond.
+In addition to my work in development, I have a strong skill set as a front-end developer, with a focus on creating intuitive and responsive user interfaces. I thrive on collaborating with individuals from diverse backgrounds and disciplines, always staying open to new experiences and challenges. As I navigate various fields, I seek opportunities that align with my passions and interests in both development and creative projects.
+
+I look forward to exciting opportunities and connections in the world of web development and beyond!
 
 <h3 align="center">A passionate fullstack developer</h3>
 
