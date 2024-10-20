@@ -5,7 +5,8 @@ In addition to my work in development, I have a strong skill set as a front-end 
 
 I look forward to exciting opportunities and connections in the world of web development and beyond!
 
-<h3 align="center">A passionate fullstack developer</h3>
+
+<h3 align="center">A passionate Fullstack Developer & AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulax&label=Profile%20views&color=0e75b6&style=flat" alt="moinulax" /> </p>
 
