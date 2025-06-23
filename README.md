@@ -1,6 +1,6 @@
 <!-- Profile Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MoinulAx/MoinulAx/main/assets/ghibli-profile.png" alt="Moinul's Ghibli-style profile art" width="400"/>
+  <img src="profile-ghilibi.png" alt="Moinul's Ghibli-style profile art" width="400"/>
 </p>
 
 # Moinul Khan
