@@ -1,8 +1,3 @@
-<!-- Profile Header Image -->
-<p align="center">
-  <img src="profile-ghilibi.png" alt="Moinul's Ghibli-style profile art" width="400"/>
-</p>
-
 # Moinul Khan
 
 ### Full Stack Developer | AI Engineer | Software Craftsman
@@ -11,32 +6,42 @@ I build scalable web apps and intelligent systems. I write clean, maintainable c
 
 ---
 
-### 🧠 About Me
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-I'm a Full Stack Developer and AI Engineer with hands-on experience building scalable systems, responsive user interfaces, and applied machine learning tools. My work spans industries—from e-commerce and education to mental health and game development.
+<h3>🧠 About Me</h3>
 
-I've contributed to enterprise apps using Spring Boot, developed cross-platform interfaces with React Native, and architected secure backends with Django, Node.js, and Flask. With a background in both frontend finesse and backend muscle, I thrive in collaborative environments that value code quality and continuous improvement.
+<p>I'm a Full Stack Developer and AI Engineer with hands-on experience building scalable systems, responsive user interfaces, and applied machine learning tools. My work spans industries—from e-commerce and education to mental health and game development.</p>
 
-Currently pursuing a Full Stack Fellowship at Pursuit, where I continue to sharpen my skills in JavaScript, TypeScript, PostgreSQL, and deployment pipelines.
+<p>I've contributed to enterprise apps using Spring Boot, developed cross-platform interfaces with React Native, and architected secure backends with Django, Node.js, and Flask. With a background in both frontend finesse and backend muscle, I thrive in collaborative environments that value code quality and continuous improvement.</p>
 
----
+<p>Currently pursuing a Full Stack Fellowship at Pursuit, where I continue to sharpen my skills in JavaScript, TypeScript, PostgreSQL, and deployment pipelines.</p>
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack</h3>
 
-**Languages & Frameworks:**
-JavaScript (ES6+), Python, C#, Java, SQL, HTML5, CSS3, React, Node.js, Express, Django, Flask, Spring Boot
+<strong>Languages & Frameworks:</strong><br/>
+JavaScript (ES6+), Python, C#, Java, SQL, HTML5, CSS3, React, Node.js, Express, Django, Flask, Spring Boot<br/><br/>
 
-**AI & Data:**
-TensorFlow, scikit-learn, pandas, NumPy, OpenCV
+<strong>AI & Data:</strong><br/>
+TensorFlow, scikit-learn, pandas, NumPy, OpenCV<br/><br/>
 
-**Dev Tools & Platforms:**
-Docker, Git, REST APIs, OAuth, JWT, Firebase, VS Code, Linux, Postman
+<strong>Dev Tools & Platforms:</strong><br/>
+Docker, Git, REST APIs, OAuth, JWT, Firebase, VS Code, Linux, Postman<br/><br/>
 
-**Styling & UI:**
-Bootstrap, Tailwind CSS, Figma
+<strong>Styling & UI:</strong><br/>
+Bootstrap, Tailwind CSS, Figma<br/><br/>
 
-**Databases:**
+<strong>Databases:</strong><br/>
 PostgreSQL, MongoDB
+
+</td>
+<td width="40%" valign="top" align="center">
+  <img src="profile-ghilibi.png" alt="Ghibli-style portrait" width="240" />
+</td>
+  </tr>
+</table>
+
 
 ---
 
@@ -65,4 +70,3 @@ PostgreSQL, MongoDB
 </p>
 
 ---
-
