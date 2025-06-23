@@ -1,7 +1,7 @@
-[![github.com/topics/icons](https://images.openai.com/thumbnails/url/EBJE5nicu1mUUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw4sSPT1zY1PDszJ9wqKyCoNDvIo84wsyjEyNIzIzY23yC8ICQ_PcAuOyCoMzS0rc81ySYwwNXaNMvZSKwYA5PwprA)](https://github.com/topics/icons)
-
-
----
+<!-- Profile Header Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MoinulAx/MoinulAx/main/assets/ghibli-profile.png" alt="Moinul's Ghibli-style profile art" width="400"/>
+</p>
 
 # Moinul Khan
 
@@ -42,21 +42,27 @@ PostgreSQL, MongoDB
 
 ### 📈 GitHub Insights
 
-![Profile Views](https://komarev.com/ghpvc/?username=moinulax\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=MoinulAx&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=moinulax\&theme=onedark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MoinulAx&theme=onedark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=moinulax\&show_icons=true\&locale=en\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MoinulAx&show_icons=true&locale=en&layout=compact)
 
 ---
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/moinul-khan-647535238/)
-
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:moinulkhan347@gmail.com)
-
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge\&logo=google-chrome)](https://moinul-khan-web.netlify.app/)
+<p>
+  <a href="https://www.linkedin.com/in/moinul-khan-647535238/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:moinulkhan347@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
+  </a>
+  <a href="https://moinul-khan-web.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome" alt="Website Badge"/>
+  </a>
+</p>
 
 ---
 
