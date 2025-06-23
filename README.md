@@ -1,23 +1,99 @@
-### Hola 
-Hola! My name is Moinul, often known as Manny among colleagues. I am deeply passionate about web development, with a particular interest in Full Stack Development. My diverse range of hobbies reflects my curiosity and love for learning. I have a strong foundation in game development with experience in C# programming, which I acquired through various projects.
+<h1 align="center">Moinul Khan</h1>
+<h3 align="center">Full Stack Developer | AI Engineer | Software Craftsman</h3>
 
-In addition to my work in development, I have a strong skill set as a front-end developer, with a focus on creating intuitive and responsive user interfaces. I thrive on collaborating with individuals from diverse backgrounds and disciplines, always staying open to new experiences and challenges. As I navigate various fields, I seek opportunities that align with my passions and interests in both development and creative projects.
-
-I look forward to exciting opportunities and connections in the world of web development and beyond!
-
-
-<h3 align="center">A passionate Fullstack Developer & AI Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinulax&label=Profile%20views&color=0e75b6&style=flat" alt="moinulax" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moinulax" alt="moinulax" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/moinul-khan-647535238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moinul khan" height="30" width="40" /></a>
+<p align="center">
+  I build scalable web apps and intelligent systems. I write clean, maintainable code, because future-me deserves kindness.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinulax&show_icons=true&locale=en&layout=compact" alt="moinulax" /></p>
+### 🧠 About Me
+
+I'm a Full Stack Developer and AI Engineer with hands-on experience building scalable systems, responsive user interfaces, and applied machine learning tools. My work spans industries—from e-commerce and education to mental health and game development.
+
+I’ve contributed to enterprise apps using Spring Boot, developed cross-platform interfaces with React Native, and architected secure backends with Django, Node.js, and Flask. With a background in both frontend finesse and backend muscle, I thrive in collaborative environments that value code quality and continuous improvement.
+
+Currently pursuing a Full Stack Fellowship at Pursuit, where I continue to sharpen my skills in JavaScript, TypeScript, PostgreSQL, and deployment pipelines.
+
+---
+
+### 🚀 Featured Projects
+
+- **[Rummy Web Portfolio](https://github.com/MoinulAx/Rummy-WEB-Porfolio)** – Sleek, responsive portfolio site built with React. Fully dynamic and designed for showcasing work with style and functionality.
+- **[PATTERNAL Backend](https://github.com/MoinulAx/PATTERNAL-BE-main)** – RESTful backend service for an AI-driven pattern generation tool. Built with Node.js, MongoDB, and JWT authentication.
+- **[Personal Website](https://moinul-khan-web.netlify.app/)** – A fully responsive portfolio and personal site. Minimalist design, fully functional, and yes, it even works on your grandma’s iPad.
+
+---
+
+### 💼 Experience Highlights
+
+**Backend Engineer** – Shell | New York  
+*May 2023 – Oct 2023*  
+- Developed scalable backend systems using Python, SQL, and Django APIs.  
+- Integrated enterprise applications with Spring Boot and microservices architecture.  
+- Led database design and optimization, improving performance across systems.
+
+**Full Stack Developer** – Brooklyn STEAM Center | NYC DOE  
+*Oct 2022 – Jun 2023*  
+- Maintained the school’s main site; built responsive platforms using React, Node.js, and Stripe.  
+- Created the PODCAST101 showcase using Flask and Bootstrap.  
+- Provided technical support for network and A/V infrastructure.
+
+**Game Programmer & Designer** – GUMBO | New York  
+*Jun 2022 – Aug 2022*  
+- Developed gameplay systems in Unity for a 2D platformer.  
+- Handled game logic, visuals, and puzzle integration using C#.
+
+---
+
+
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+JavaScript (ES6+), Python, C#, Java, SQL, HTML5, CSS3, React, Node.js, Express, Django, Flask, Spring Boot
+
+**AI & Data:**  
+TensorFlow, scikit-learn, pandas, NumPy, OpenCV
+
+**Dev Tools & Platforms:**  
+Docker, Git, REST APIs, OAuth, JWT, Firebase, VS Code, Linux, Postman
+
+**Styling & UI:**  
+Bootstrap, Tailwind CSS, Figma
+
+**Databases:**  
+PostgreSQL, MongoDB
+
+---
+
+### 📈 GitHub Insights
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=moinulax&label=Profile%20views&color=0e75b6&style=flat" alt="moinulax profile views" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=moinulax&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moinulax&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/moinul-khan-647535238/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:moinul.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
