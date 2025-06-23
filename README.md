@@ -37,7 +37,7 @@ PostgreSQL, MongoDB
 
 </td>
 <td width="40%" valign="top" align="center">
-  <img src="profile-ghilibi.png" alt="Ghibli-style portrait" width="240" />
+  <img src="profile-ghilibi.png" alt="Ghibli-style portrait" width="340" length="780" />
 </td>
   </tr>
 </table>
