@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | AI Engineer | Software Craftsman
 
-I build scalable web apps and intelligent systems. I write clean, maintainable code because future-me deserves kindness. Or at least a break from debugging.
+I build scalable web apps and intelligent systems. I write clean, maintainable code because future-me deserves kindness. Or at least a break from debugging. I don't vibe code, but my code is a vibe ;)
 
 ---
 
